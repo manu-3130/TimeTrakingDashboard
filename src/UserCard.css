@@ -1,0 +1,41 @@
+.tarjet{
+    margin-top: -15px;
+    z-index: -5;
+    position: relative;
+}
+
+.bg-primary{
+    background-color : hsl(246, 80%, 60%) !important;
+}
+
+img{
+    width: 60px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.bg-primary-subtle{
+    background-color: hsl(235, 46%, 20%) !important;
+}
+
+.rounded{
+    border-radius: 5% !important;
+}
+
+p{
+    color: hsl(236, 100%, 87%);
+}
+
+strong{
+    color: white;
+}
+
+h1, h2{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.mb-5{
+    margin-bottom: 70px !important;
+}
+
